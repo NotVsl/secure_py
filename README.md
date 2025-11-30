@@ -6,7 +6,7 @@ This README provides installation instructions, usage basics, features, and proj
 
 ---
 
-## ⭐ Features
+##  Features
 
 * **Multi-user support** (each user has their own master password and vault)
 * **Strong encryption** using AES‑256‑GCM
@@ -20,7 +20,7 @@ This README provides installation instructions, usage basics, features, and proj
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 * Python **3.8+**
 * The following Python libraries:
@@ -43,7 +43,7 @@ pip install cryptography argon2-cffi pyperclip
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. Clone or download this repository.
 2. Install dependencies.
@@ -54,7 +54,7 @@ python3 password_manager_multiuser.py
 ```
 
 
-## 🔐 Multi-User System
+## Multi-User System
 
 * Each user has a **username** and **master password**.
 * Vault data is **isolated per user**.
@@ -62,7 +62,7 @@ python3 password_manager_multiuser.py
 
 ---
 
-## 🧭 Usage
+##  Usage
 
 After launching the program and logging in, use the following commands:
 
