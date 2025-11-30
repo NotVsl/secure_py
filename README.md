@@ -50,12 +50,9 @@ pip install cryptography argon2-cffi pyperclip
 3. Run the program:
 
 ```bash
-python3 password_manager.py
+python3 password_manager_multiuser.py
 ```
 
-4. If the database does not exist, the program will create one and prompt for **user registration**.
-
----
 
 ## 🔐 Multi-User System
 
